@@ -1,5 +1,4 @@
 <h1 align="center">
-  <br/><br/>
   👋 Welcome to pattern library skeleton
   <br/><br/>
 </h1>
