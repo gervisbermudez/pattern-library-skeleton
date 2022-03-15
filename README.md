@@ -1,5 +1,4 @@
 <h1 align="center">
-  #zapatillasFromMars👟🚀
   <br/><br/>
   👋 Welcome to pattern library skeleton
   <br/><br/>
